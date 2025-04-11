@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bryant, my username is @iAmJiro
 - 👀 I have a keen interest in Full-Stack Development;
-- 🌱 I am studying Information Technology / Third Year
+- 🌱 I have a Bachelors in Information Technology
 - 📫 How to reach me - bryantcavinta24@gmail.com
